@@ -1,0 +1,17 @@
+G:\WEB DEVELOPMENT\Shopping.EF\bin\Debug\net6.0\Shopping.EF.deps.json
+G:\WEB DEVELOPMENT\Shopping.EF\bin\Debug\net6.0\Shopping.EF.runtimeconfig.json
+G:\WEB DEVELOPMENT\Shopping.EF\bin\Debug\net6.0\Shopping.EF.dll
+G:\WEB DEVELOPMENT\Shopping.EF\bin\Debug\net6.0\Shopping.EF.pdb
+G:\WEB DEVELOPMENT\Shopping.EF\bin\Debug\net6.0\Shopping.Core.dll
+G:\WEB DEVELOPMENT\Shopping.EF\bin\Debug\net6.0\Shopping.Core.pdb
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.csproj.AssemblyReference.cache
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.AssemblyInfoInputs.cache
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.AssemblyInfo.cs
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.csproj.CoreCompileInputs.cache
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.csproj.CopyComplete
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.dll
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\refint\Shopping.EF.dll
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.pdb
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\Shopping.EF.genruntimeconfig.cache
+G:\WEB DEVELOPMENT\Shopping.EF\obj\Debug\net6.0\ref\Shopping.EF.dll

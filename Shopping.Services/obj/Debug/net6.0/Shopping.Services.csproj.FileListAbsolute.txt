@@ -1,0 +1,17 @@
+G:\WEB DEVELOPMENT\Shopping.Services\bin\Debug\net6.0\Shopping.Services.deps.json
+G:\WEB DEVELOPMENT\Shopping.Services\bin\Debug\net6.0\Shopping.Services.runtimeconfig.json
+G:\WEB DEVELOPMENT\Shopping.Services\bin\Debug\net6.0\Shopping.Services.dll
+G:\WEB DEVELOPMENT\Shopping.Services\bin\Debug\net6.0\Shopping.Services.pdb
+G:\WEB DEVELOPMENT\Shopping.Services\bin\Debug\net6.0\Shopping.Core.dll
+G:\WEB DEVELOPMENT\Shopping.Services\bin\Debug\net6.0\Shopping.Core.pdb
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.csproj.AssemblyReference.cache
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.AssemblyInfoInputs.cache
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.AssemblyInfo.cs
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.csproj.CoreCompileInputs.cache
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.csproj.CopyComplete
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.dll
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\refint\Shopping.Services.dll
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.pdb
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\Shopping.Services.genruntimeconfig.cache
+G:\WEB DEVELOPMENT\Shopping.Services\obj\Debug\net6.0\ref\Shopping.Services.dll
